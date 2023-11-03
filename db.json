@@ -1,0 +1,60 @@
+{
+  "tags": [
+    {
+      "id": "1",
+      "parentId": "",
+      "level": 0,
+      "name": "Rice",
+      "parentName": "All"
+    },
+    {
+      "id": "2",
+      "parentId": "",
+      "level": 0,
+      "name": "Pulses",
+      "parentName": "All"
+    },
+    {
+      "id": "3",
+      "parentId": "1",
+      "level": 1,
+      "name": "Ponni Rice",
+      "parentName": "Rice"
+    },
+    {
+      "id": "4",
+      "parentId": "1",
+      "level": 1,
+      "name": "Pacharasi Rice",
+      "parentName": "Rice"
+    },
+    {
+      "id": "5",
+      "parentId": "2",
+      "level": 1,
+      "name": "Paasi",
+      "parentName": "Pulses"
+    },
+    {
+      "id": "6",
+      "parentId": "2",
+      "level": 1,
+      "name": "Thuvaram",
+      "parentName": "Pulses"
+    },
+    {
+      "id": "7",
+      "parentId": "6",
+      "level": 2,
+      "name": "Thuvaram Ragam 1",
+      "parentName": "Thuvaram"
+    },
+    {
+      "id": "9",
+      "parentId": "3",
+      "level": 2,
+      "name": "Ponni Rice Ragam 1",
+      "parentName": "Ponni Rice"
+    }
+  ]
+}
